@@ -1,3 +1,6 @@
+.mygame{
+    height: 100vh;
+}
 canvas{
     background-color:rgba(0, 0, 0, 0.555);
     max-width: 100%;
